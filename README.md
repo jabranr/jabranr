@@ -11,9 +11,3 @@ Front-end Tech Lead at [Rated People](https://www.ratedpeople.com/c/about-us?ref
 - [Covidonation](https://covidonation.com?ref=gh-readme) - Ways to help, donate or offer to volunteer during Coronavirus pandemic
 - [Guess Where](https://jabran.me/guess-where?ref=gh-readme) - Interactive geo quiz game
 
-
----
-
-Twitter - [@jabranr](https://twitter.com/jabranr)
-<br />
-Website - [https://jabran.me](https://jabran.me?ref=gh-readme)
