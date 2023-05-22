@@ -2,7 +2,7 @@
 
 ## Hello! I am Jabran 👋
 
-I am a Software Engineer and currently a Frontend Tech Lead at [Rated People](https://www.ratedpeople.com/c/about-us?ref=gh-readme-jabranr)
+I am a Software Engineer and currently a  Staff Engineer at [Rated People](https://www.ratedpeople.com/c/about-us?ref=gh-readme-jabranr)
 
 
 Here are some of my personal projects:
