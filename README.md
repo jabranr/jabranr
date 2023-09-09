@@ -11,7 +11,7 @@ Here are some of my personal projects:
   - a directory of businesses accepting childcare vouchers as a method of payment
 - [Work Clock](https://work-clock.pages.dev/?ref=gh-readme-jabranr)
   - a macOS menubar app to display time for a different timezone
-- [Reason to follow](https://reason-to-follow.pages.dev/?ref=gh-readme-jabranr)
+- [Reason to follow](https://reasontofollow.com/?ref=gh-readme-jabranr)
   - a browser extension to remember the reason to follow an account on social platforms
 - [CovidTotals.today](https://covid19-today.pages.dev?ref=gh-readme-jabranr)
   - to stay up-to-date with <em>daily figures</em>&trade; about Coronavirus (COVID-19) pandemic.
