@@ -2,7 +2,7 @@
 
 ## Hello! I am Jabran 👋
 
-I am a Software Engineer and currently a  Staff Engineer at [Rated People](https://www.ratedpeople.com/c/about-us?ref=gh-readme-jabranr)
+I am a Senior Software Engineer and Tech Lead at [Sky UK](https://careers.sky.com)
 
 
 Here are some of my personal projects:
