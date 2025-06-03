@@ -13,9 +13,9 @@ Here are some of my personal projects:
   - a macOS menubar app to display time for a different timezone
 - [Reason to follow](https://reasontofollow.com/?ref=gh-readme-jabranr)
   - a browser extension to remember the reason to follow an account on social platforms
+- [Guess Where](https://guess-where.jabran.dev/?ref=gh-readme-jabranr)
+  - an interactive geo quiz game to guess a location name by recognising the map features.
 - [CovidTotals.today](https://covid19-today.pages.dev?ref=gh-readme-jabranr)
   - to stay up-to-date with <em>daily figures</em>&trade; about Coronavirus (COVID-19) pandemic.
 - [Covidonation](https://covidonation.pages.dev/?ref=gh-readme-jabranr)
-  - a platform about <em>Ways to Help</em>&trade; during Coronavirus pandemic. Donate or offer to volunteer to entities working on ground globally.
-- [Guess Where](https://guess-where.pages.dev/?ref=gh-readme-jabranr)
-  - an interactive geo quiz game to guess a location name by looking at bare map.
+  - a platform about <em>Ways to Help</em>&trade; during Coronavirus pandemic. Donate or offer to volunteer to entities working on the ground globally.
