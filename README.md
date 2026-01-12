@@ -7,15 +7,15 @@ I am a Senior Software Engineer and Tech Lead at [Sky UK](https://careers.sky.co
 
 Here are some of my personal projects:
 
-- [Childcare Vouchers](https://childcare-vouchers.uk/?ref=gh-readme-jabranr)
+- [Childcare Vouchers](https://childcare-vouchers.uk)
   - a directory of businesses accepting childcare vouchers as a method of payment
-- [Work Clock](https://work-clock.pages.dev/?ref=gh-readme-jabranr)
+- [Work Clock](https://work-clock.pages.dev)
   - a macOS menubar app to display time for a different timezone
-- [Reason to follow](https://reasontofollow.com/?ref=gh-readme-jabranr)
+- [Reason to follow](https://reasontofollow.com)
   - a browser extension to remember the reason to follow an account on social platforms
-- [Guess Where](https://guess-where.jabran.dev/?ref=gh-readme-jabranr)
+- [Guess Where](https://guess-where.jabran.dev)
   - an interactive geo quiz game to guess a location name by recognising the map features.
-- [CovidTotals.today](https://covid19-today.pages.dev?ref=gh-readme-jabranr)
+- [CovidTotals.today](https://covid19-today.jabran.dev)
   - to stay up-to-date with <em>daily figures</em>&trade; about Coronavirus (COVID-19) pandemic.
-- [Covidonation](https://covidonation.pages.dev/?ref=gh-readme-jabranr)
+- [Covidonation](https://covidonation.jabran.dev)
   - a platform about <em>Ways to Help</em>&trade; during Coronavirus pandemic. Donate or offer to volunteer to entities working on the ground globally.
