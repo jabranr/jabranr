@@ -4,6 +4,12 @@
 
 I am a Senior Software Engineer and Tech Lead at [Sky UK](https://careers.sky.com)
 
+Here are some of my personal productivity tools:
+
+- [Workflows](https://github.com/workflows)
+  - collection of reusable GitHub actions and workflows
+- [AI Skills](https://github.com/skills)
+  - collection of AI Agents Skills for personal development and productivity tools
 
 Here are some of my personal projects:
 
